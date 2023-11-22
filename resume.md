@@ -30,7 +30,7 @@ and change @REDACTED to be true
 - [LinkedIn](https://www.linkedin.com/in/parthmadhvani2)
 - [Twitter](https://twitter.com/in/parthmadhvani2)
 - [Github](https://github.com/ParthMadhvani2)
-- [Website](https://parthmadhvani2.me)
+- [Website](https://parthmadhvani2.github.io/MyPortfolio/)
 
 </div>
 
