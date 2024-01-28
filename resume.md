@@ -26,28 +26,21 @@ and change @REDACTED to be true
 - [{PHONE}](tel:6353649839)
 - {LOCATION}
 - {ROLE}
-- [{EMAIL}](mailto:madhvaniparth2@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/parthmadhvani2)
-- [Twitter](https://twitter.com/in/parthmadhvani2)
 - [Github](https://github.com/ParthMadhvani2)
 - [Website](https://parthmadhvani2.github.io/MyPortfolio/)
+- [LinkedIn](https://www.linkedin.com/in/parthmadhvani2)
+- [Twitter](https://twitter.com/in/parthmadhvani2)
+- [{EMAIL}](mailto:madhvaniparth2@gmail.com)
 
 </div>
 
-## EDUCATION
-
-A. D. Patel Institute of Technology<span class="spacer"></span>Anand, Gujarat
-
-*Bachelors of Technology in Information Technology*<span class="spacer"></span>Oct 2021 - May 2025
-
 ## TECHNICAL SKILLS
 
-- Languages: C/C++, HTML5, CSS, JavaScript/Typescript, Python
-- Frameworks: React, ExpressJS, Node.Js, TailwindCSS, Bootstrap, SASS
-- Databases: MongoDB, MySQL
-- Tools/Technologies: Git, Github, Postman, Figma, Storybook, 
-- Hosting/Cloud: AWS, Firebase, Google Cloud, Vercel, Netlify, GitHub Pages, Heroku
-
+- Languages: C/C++, HTML5, CSS, JavaScript/Typescript
+- Frameworks: React, Redux, NextJS, ExpressJS, Node.Js, TailwindCSS, Bootstrap, SASS, JWT
+- Databases: MongoDB, MySQL, Supabase
+- Tools/Technologies: Git, GitHub, Postman, Docker, Figma 
+- Hosting/Cloud: AWS, Firebase, Google Cloud, Vercel, Netlify, GitHub Pages
 
 ## EXPERIENCE
 
@@ -63,12 +56,10 @@ Contributer<span class="spacer"></span>May 2023 – August 2023
 - Contributing to projects in **MERN stack** and **GitHub action**! 
 
 ## PROJECTS
-### Weather_App_Page-Forcast <span class="spacer"></span>August 2023
- *[JavaScript, CSS, APIs]*	
+### GitHub Landing Page <span class="spacer"></span>Jan 2024
+ *[Next.Js, Typescript, TailwindCSS, Figma, Framer motion]*	
 
-- Created a **Web App** using JavaScript for Weather Forcast.
--  Show the **current temperature** of any city in the world (with a current location button)
-- Allows to research in real time the current and the **next 6 days** weather.
+- A **Next.js, Framer Motion, and React Spring** based re-design of **GitHub's landing page**.
 
 ### Yogagenie <span class="spacer"></span>March 2023
  *[JavaScript, React.js, APIs]*	
@@ -79,14 +70,22 @@ Contributer<span class="spacer"></span>May 2023 – August 2023
 - Learn Yoga without paying expensive fees for yoga classes.
 - **Reliable and Efficient** techniques.
 
-### [HackThisTune <span class="spacer"></span>	February 2023 
+### HackThisTune <span class="spacer"></span>	February 2023 
 *[JavaScript, React.js, APIs]*
+
 - Developed  a music website to search and listen music using **Shazam APIs**
 -  Discover your next favourite hit, easily search for songs by genre, artist, and mood, and later listen on Shazam.
 - Say goodbye to the hassle of shuffling through endless playlists - our website makes it simple to find the tunes you love.
 - Join the party and let the music play on with our must-try music website.
 - **Directly search** songs from the website.
 
+## EDUCATION
+
+### A. D. Patel Institute of Technology<span class="spacer"></span>Anand, Gujarat
+
+*Bachelors of Technology in Information Technology*<span class="spacer"></span> Oct 2021 - May 2025
+
 ## VOLUNTEERING AND LEADERSHIP
+
 ### ADIT Web Team (ADIT) <span class="spacer"></span> November 2023 - Present 
  *Build amazing website for University events*
