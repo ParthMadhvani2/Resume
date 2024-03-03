@@ -27,7 +27,7 @@ and change @REDACTED to be true
 - {LOCATION}
 - {ROLE}
 - [Github](https://github.com/ParthMadhvani2)
-- [Website](https://parthmadhvani2.github.io/MyPortfolio/)
+- [Portfolio](https://parthmadhvani2.github.io/MyPortfolio/)
 - [LinkedIn](https://www.linkedin.com/in/parthmadhvani2)
 - [Twitter](https://twitter.com/in/parthmadhvani2)
 - [{EMAIL}](mailto:madhvaniparth2@gmail.com)
@@ -37,46 +37,47 @@ and change @REDACTED to be true
 ## TECHNICAL SKILLS
 
 - Languages: C/C++, HTML5, CSS, JavaScript/Typescript
-- Frameworks: React, Redux, NextJS, ExpressJS, Node.Js, TailwindCSS, Bootstrap, SASS, JWT
+- Frameworks: React, Redux, NextJS, Node.Js, ExpressJS, TailwindCSS, MaterialUI, Bootstrap, SASS, JWT
 - Databases: MongoDB, MySQL, Supabase
 - Tools/Technologies: Git, GitHub, Postman, Docker, Figma 
 - Hosting/Cloud: AWS, Firebase, Google Cloud, Vercel, Netlify, GitHub Pages
 
-## EXPERIENCE
+## Open Source
 
 ### GirlScript Summer of Code'23<span class="spacer"></span> Remote (India)
 
-Contributer<span class="spacer"></span>May 2023 – August 2023
+Engineering-Notes-Website &nbsp;[try it](https://code-engineering.netlify.app/)<span class="spacer"></span>May 2023 – August 2023
 
-- GirlScript Summer of Code is a **3-month long Open Source program** during summers conducted by **GirlScript Foundation**, it started in 2018, with an aim to help beginners get started with Open Source Development while encouraging diversity.
-- Throughout the program, participants contribute to different projects under the guidance of experienced mentors.
-- Top participants get exciting goodies and opportunities.
-- Contributing to Projects listed on **GSSoC 23**! 
-
-- Contributing to projects in **MERN stack** and **GitHub action**! 
+- [Dark mode in contact us](https://github.com/NageshMandal/Engineering-Notes-Website/pull/968) #930 issue
+- The dark mode in the contact page was not working
+- I have also changed the UI of the website
+- [github repo](https://github.com/NageshMandal/Engineering-Notes-Website)
 
 ## PROJECTS
-### GitHub Landing Page <span class="spacer"></span>Jan 2024
+### GitHub Landing Page &nbsp;[try it](https://github-landing.parthmadhvani2.vercel.app/)<span class="spacer"></span>Jan 2024
  *[Next.Js, Typescript, TailwindCSS, Figma, Framer motion]*	
 
-- A **Next.js, Framer Motion, and React Spring** based re-design of **GitHub's landing page**.
+- Re-created **github.com/home** website using NextJS and deployed it using GitHub Pages
+Before implementing, I designed the website sections in [Figma file](https://www.figma.com/file/67lJIMMvmDQojnbQvaK7EL/GitHub-landingpage-Design?type=design&node-id=0-1&mode=design&t=y6ELmfXDfeqYjGPM-0).
+- The re-design is crafted using Next.js, a React framework known for its **exceptional performance and seamless server-side rendering**. This ensures a fast-loading, responsive landing page that delivers a **smooth user experience across devices**.
 
-### Yogagenie <span class="spacer"></span>March 2023
+### GitFinder &nbsp;[try it](parthmadhvani2.github.io/GitFinder/)<span class="spacer"></span>March 2023
  *[JavaScript, React.js, APIs]*	
 
-- Created a **Yoga pose suggestion** according to the problem faced by you all suggestions would be given by ChatGPT.
--  Our mission is to provide you with credible information, resources, and guidance on the practice of yoga, so that you can experience its many benefits for yourself.
-- Our website is designed to be a **comprehensive resource** for all things yoga. Here, you will find information on different yoga styles, poses, and sequences. 
-- Learn Yoga without paying expensive fees for yoga classes.
-- **Reliable and Efficient** techniques.
+- GitHub Profile Finder is a dynamic web application designed to streamline the process of discovering GitHub users and exploring their profile details.
+- GitHub Profile Finder is a web application that allows you to search for **GitHub users** and view their profile details.
+- The application is built using HTML, CSS, and JavaScript, and it utilizes the **GitHub API** to fetch user data and present it at the front end.
+- Search for GitHub users by their **username**.
+- View the user's profile information, including their **avatar, name, bio, location, and public repositories**.
 
-### HackThisTune <span class="spacer"></span>	February 2023 
+### HackThisTune &nbsp;[try it](https://rapidapi-example-music-app.vercel.app/)<span class="spacer"></span>	February 2023 
 *[JavaScript, React.js, APIs]*
 
+- Embark on a musical journey with the innovative music website I developed, offering an immersive experience powered by Shazam APIs.
+- This dynamic platform redefines the way you discover and enjoy music, making it easier than ever to find your next favourite hit.
 - Developed  a music website to search and listen music using **Shazam APIs**
 -  Discover your next favourite hit, easily search for songs by genre, artist, and mood, and later listen on Shazam.
 - Say goodbye to the hassle of shuffling through endless playlists - our website makes it simple to find the tunes you love.
-- Join the party and let the music play on with our must-try music website.
 - **Directly search** songs from the website.
 
 ## EDUCATION
