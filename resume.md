@@ -34,14 +34,6 @@ and change @REDACTED to be true
 
 </div>
 
-## TECHNICAL SKILLS
-
-- Languages: C/C++, HTML5, CSS, JavaScript/Typescript
-- Frameworks: React, Redux, NextJS, Node.Js, ExpressJS, TailwindCSS, MaterialUI, Bootstrap, SASS, JWT
-- Databases: MongoDB, MySQL, Supabase
-- Tools/Technologies: Git, GitHub, Postman, Docker, Figma 
-- Hosting/Cloud: AWS, Firebase, Google Cloud, Vercel, Netlify, GitHub Pages
-
 ## Open Source
 
 ### GirlScript Summer of Code'23<span class="spacer"></span> Remote (India)
@@ -49,11 +41,17 @@ and change @REDACTED to be true
 Engineering-Notes-Website &nbsp;[try it](https://code-engineering.netlify.app/)<span class="spacer"></span>May 2023 – August 2023
 
 - [Dark mode in contact us](https://github.com/NageshMandal/Engineering-Notes-Website/pull/968) #930 issue
-- The dark mode in the contact page was not working
+- The dark mode on the contact page was not working
 - I have also changed the UI of the website
 - [github repo](https://github.com/NageshMandal/Engineering-Notes-Website)
 
 ## PROJECTS
+### FramePhase &nbsp;[try it](frame-phase.netlify.app/)<span class="spacer"></span>March 2024
+ *[Next.Js, JavaScript, TailwindCSS, WebAssembly, AWS S3, Figma]*	
+
+- Developed a cutting-edge **Captions Generator Application** that transcribes videos and applies adjustable captions with a user-friendly editor.
+- Noteworthy features include customizable options such as **colour schemes, margins, and more,** enhancing user experience and accessibility.
+
 ### GitHub Landing Page &nbsp;[try it](https://github-landing.parthmadhvani2.vercel.app/)<span class="spacer"></span>Jan 2024
  *[Next.Js, Typescript, TailwindCSS, Figma, Framer motion]*	
 
@@ -74,19 +72,22 @@ Before implementing, I designed the website sections in [Figma file](https://www
 *[JavaScript, React.js, APIs]*
 
 - Embark on a musical journey with the innovative music website I developed, offering an immersive experience powered by Shazam APIs.
-- This dynamic platform redefines the way you discover and enjoy music, making it easier than ever to find your next favourite hit.
-- Developed  a music website to search and listen music using **Shazam APIs**
+- This dynamic platform redefines how you discover and enjoy music, making it easier to find your next favourite hit.
+- Developed  a music website to search and listen to music using **Shazam APIs**
 -  Discover your next favourite hit, easily search for songs by genre, artist, and mood, and later listen on Shazam.
-- Say goodbye to the hassle of shuffling through endless playlists - our website makes it simple to find the tunes you love.
+- Say goodbye to the hassle of shuffling through endless playlists - our website makes finding the tunes you love simple.
 - **Directly search** songs from the website.
+
+## TECHNICAL SKILLS
+
+- Languages: C/C++, HTML5, CSS, JavaScript/Typescript
+- Frameworks: React, Redux, NextJS, Node.Js, ExpressJS, TailwindCSS, MaterialUI, SASS, JWT
+- Databases: MongoDB, MySQL, Supabase
+- Tools/Technologies: Git, GitHub, Postman, Figma 
+- Hosting/Cloud: AWS, Firebase, Google Cloud, Vercel, Netlify, GitHub Pages
 
 ## EDUCATION
 
 ### A. D. Patel Institute of Technology<span class="spacer"></span>Anand, Gujarat
 
 *Bachelors of Technology in Information Technology*<span class="spacer"></span> Oct 2021 - May 2025
-
-## VOLUNTEERING AND LEADERSHIP
-
-### ADIT Web Team (ADIT) <span class="spacer"></span> November 2023 - Present 
- *Build amazing website for University events*
