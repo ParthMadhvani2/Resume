@@ -46,7 +46,7 @@ Engineering-Notes-Website &nbsp;[try it](https://code-engineering.netlify.app/)<
 - [github repo](https://github.com/NageshMandal/Engineering-Notes-Website)
 
 ## PROJECTS
-### FramePhase &nbsp;[try it](frame-phase.netlify.app/)<span class="spacer"></span>March 2024
+### FramePhase &nbsp;[try it](frame-phase.netlify.app/)<span class="spacer"></span>Febuary 2024
  *[Next.Js, JavaScript, TailwindCSS, WebAssembly, AWS S3, Figma]*	
 
 - Developed a cutting-edge **Captions Generator Application** that transcribes videos and applies adjustable captions with a user-friendly editor.
@@ -59,7 +59,7 @@ Engineering-Notes-Website &nbsp;[try it](https://code-engineering.netlify.app/)<
 Before implementing, I designed the website sections in [Figma file](https://www.figma.com/file/67lJIMMvmDQojnbQvaK7EL/GitHub-landingpage-Design?type=design&node-id=0-1&mode=design&t=y6ELmfXDfeqYjGPM-0).
 - The re-design is crafted using Next.js, a React framework known for its **exceptional performance and seamless server-side rendering**. This ensures a fast-loading, responsive landing page that delivers a **smooth user experience across devices**.
 
-### GitFinder &nbsp;[try it](parthmadhvani2.github.io/GitFinder/)<span class="spacer"></span>March 2023
+### GitFinder &nbsp;[try it](parthmadhvani2.github.io/GitFinder/)<span class="spacer"></span>August 2023
  *[JavaScript, React.js, APIs]*	
 
 - GitHub Profile Finder is a dynamic web application designed to streamline the process of discovering GitHub users and exploring their profile details.
