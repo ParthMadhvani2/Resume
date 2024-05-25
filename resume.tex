@@ -1,0 +1,107 @@
+\documentclass[11pt,a4paper,sans]{moderncv}
+\moderncvstyle{banking}
+\moderncvcolor{black}
+\nopagenumbers{}
+\usepackage[utf8]{inputenc}
+\usepackage{ragged2e}
+\usepackage[scale=0.915]{geometry}
+\usepackage{import}
+\usepackage{multicol}
+\usepackage{import}
+\usepackage{enumitem}
+\usepackage[utf8]{inputenc}
+\usepackage{amssymb}
+\name{Parth}{Madhvani}
+\newcommand*{\customcventry}[7][.13em]{
+\begin{tabular}{@{}l}
+{\bfseries #4} \
+{\itshape #3}
+\end{tabular}
+\hfill
+\begin{tabular}{l@{}}
+{\bfseries #5} \
+{\itshape #2}
+\end{tabular}
+\ifx&#7&%
+\else{\
+\begin{minipage}{\maincolumnwidth}%
+\small#7%
+\end{minipage}}\fi%
+\par\addvspace{#1}}
+\begin{document}
+\makecvtitle
+\vspace*{-16mm}
+\begin{center}\textbf{ Frontend Software Engineer }\end{center}
+
+\begin{center}
+{+91 6353649839}~ \quad \href{mailto:madhvaniparth2@gmail.com}{madhvaniparth2@gmail.com} \quad
+\href{https://github.com/ParthMadhvani2}{\color{blue}GitHub} \quad
+\href{https://parthmadhvani2.github.io/MyPortfolio/}{\color{blue}Portfolio}  \quad
+\href{https://www.linkedin.com/in/parthmadhvani2/}{\color{blue}Linkedin}
+\end{center}
+
+
+% ---------- SUMMARY ----------
+\section{Summary}
+\begin{itemize}[leftmargin=0in, label={}]
+\item Innovative Frontend Software Engineer with extensive experience in developing and optimizing user-friendly web applications. Proficient in ReactJS, NextJS, and various UI component libraries. Strong background in full-stack development, including backend technologies and cloud platforms.
+\end{itemize}
+
+% ---------- TECHNICAL SKILLS ----------
+\section{Technical Skills}
+\begin{itemize}[leftmargin=0in, label={}]
+\normalsize{
+    \item \textbf{Languages:} Javascript, Typescript, C++, HTML, CSS
+    \item \textbf{Frontend Technologies:} ReactJS, NextJS, REST APIs, Redux, React Query, Framer-motion, Axios, GraphQL
+    \item \textbf{UI Component Libraries:} Chakra UI, Shadcn UI, Ant Design, Material UI, styled-components, Tailwind CSS
+    \item \textbf{Backend Technologies:} NodeJS, Fastify, Express, Auth, Firebase, Supabase
+    \item \textbf{Platforms/Tools:} AWS, Git/GitHub, CI/CD, Vercel, Netlify, Postman, Docker, NPM/Yarn, Version-based releases
+    \item \textbf{Other:} WebSockets, tRPC, Jest, Cypress, Strapi
+}
+\end{itemize}
+
+% ---------- EXPERIENCE ----------
+\section{Experience}
+\cventry{04/2023 -- present}{Frontend Engineer}{Web3Scope}{(Remote) Bengaluru, India}{}
+{
+\begin{itemize}[leftmargin=0.6cm, label={\textbullet}]
+    \item Developed and optimized reusable components using ReactJS, NextJS, and SCSS, enhancing user engagement.
+    \item Created and integrated components with backend APIs, utilizing tables and charts for dynamic data presentation.
+    \item Improved application performance and UI through chaos engineering, leading to an 80\% increase in user satisfaction.
+\end{itemize}
+}
+
+\cventry{05/2024 -- 06/2024}{Full Stack Engineer}{BrainyBeam Info.tech}{(Remote) Ahmedabad, India}{}
+{
+\begin{itemize}[leftmargin=0.6cm, label={\textbullet}]
+    \item Developed FreshFruitHub, an online platform for fresh fruits and vegetables, boosting the company's e-commerce presence.
+    \item Implemented key functionalities including user authentication, shopping cart, and wish list features.
+    \item Enhanced UI design with best UI/UX practices, improving user experience.
+\end{itemize}
+}
+
+% ---------- PROJECTS ----------
+\section{Projects}
+\cventry{Feb 2024 -- Mar 2024}{FramePhase}{\href{https://frame-phase.netlify.app/}{Live Demo} | \href{https://github.com/ParthMadhvani2/FramePhase}{GitHub}}{}{}
+{
+\begin{itemize}[leftmargin=0.6cm, label={\textbullet}]
+    \item Developed FramePhase, a next-gen captions generator app using Next.js 13 and AWS for automated transcription, streamlining the content creation process.
+    \item Empowered creators with customizable options and enhanced accessibility, leading to a 25\% increase in user engagement compared to other caption generators.
+    \item Tech Stack: Next.js 13, TailwindCSS, WebAssembly, AWS S3 Bucket, AWS Transcribe, Figma
+\end{itemize}
+}
+
+\cventry{Jan 2024 -- May 2024}{GitHub Landing Page}{\href{https://github-landing.parthmadhvani2.vercel.app/}{Live Demo} | \href{https://github.com/ParthMadhvani2/github-landing}{GitHub}}{}{}
+{
+\begin{itemize}[leftmargin=0.6cm, label={\textbullet}]
+    \item Re-created the GitHub home page using Next.js, significantly improving performance and user experience.
+    \item Designed sections in Figma before implementation, ensuring a consistent and professional look.
+    \item Tech Stack: Next.js 13, TypeScript, TailwindCSS, Figma, Framer Motion
+\end{itemize}
+}
+
+% ---------- EDUCATION ----------
+\section{Education}
+\cventry{2021 -- 2025}{B.Tech in Information Technology}{A.D. Patel Institute of Technology}{Anand, Gujarat}{}{}
+
+\end{document}
