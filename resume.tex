@@ -7,118 +7,106 @@
 \usepackage[scale=0.915]{geometry}
 \usepackage{import}
 \usepackage{multicol}
-\usepackage{import}
 \usepackage{enumitem}
-\usepackage[utf8]{inputenc}
 \usepackage{amssymb}
+
 \name{Parth}{Madhvani}
+
+% Custom entry block
 \newcommand*{\customcventry}[7][.13em]{
 \begin{tabular}{@{}l}
-{\bfseries #4} \
+{\bfseries #4} \\
 {\itshape #3}
 \end{tabular}
 \hfill
 \begin{tabular}{l@{}}
-{\bfseries #5} \
+{\bfseries #5} \\
 {\itshape #2}
 \end{tabular}
 \ifx&#7&%
-\else{\
+\else{\\[2pt]
 \begin{minipage}{\maincolumnwidth}%
-\small#7%
+\small #7%
 \end{minipage}}\fi%
 \par\addvspace{#1}}
+
 \begin{document}
 \makecvtitle
 \vspace*{-16mm}
-\begin{center}\textbf{ Frontend Software Engineer }\end{center}
 
 \begin{center}
-{+91-6353649839}~ \quad \href{mailto:madhvaniparth2@gmail.com}{madhvaniparth2@gmail.com} \quad
-\href{https://github.com/ParthMadhvani2}{\color{blue}GitHub} \quad
-\href{https://parthmadhvani2.vercel.app/}{\color{blue}Portfolio}  \quad
-\href{https://www.linkedin.com/in/parthmadhvani2/}{\color{blue}LinkedIn} \quad
-\href{https://twitter.com/parthmadhvani2}{\color{blue}Twitter}
+\textbf{Frontend (Design) Engineer}
 \end{center}
 
-
-% ---------- SUMMARY ----------
-% \section{Summary}
-% \begin{itemize}[leftmargin=0in, label={}]
-% \item Innovative Frontend Software Engineer with extensive experience developing and optimizing user-friendly web applications. Proficient in ReactJS, NextJS, and various UI component libraries.
-% \end{itemize}
-
-% ---------- TECHNICAL SKILLS ----------
-\section{Technical Skills}
-\begin{itemize}[leftmargin=0in, label={}]
-\normalsize{
-    \item \textbf{Languages:} JavaScript, Typescript, HTML, CSS, SCSS, C \& C++, Bash
-    \item \textbf{Libraries \& Frameworks:} React \& Redux, Next, Node, Express, Shadcn UI, Tailwind CSS, Framer-motion
-    \item \textbf{Databases \& Query Languages:} MongoDB, PostgreSQL, SQL, GraphQL (query language)
-    \item \textbf{Platforms:} GitHub, Netlify, Vercel, AWS, Firebase, Supabase, Auth
-    \item \textbf{Tools:} Git, Vite, Postman, Figma, Stripe, Clerk, NPM/Yarn, Docker
-}
-\end{itemize}
+\begin{center}
+{+91-6353649839} \quad 
+\href{mailto:madhvaniparth2@gmail.com}{madhvaniparth2@gmail.com} \quad
+\href{https://github.com/ParthMadhvani2}{\color{blue}GitHub} \quad
+\href{https://parthmadhvani2.vercel.app}{\color{blue}Portfolio} \quad
+\href{https://www.linkedin.com/in/parthmadhvani2}{\color{blue}LinkedIn} \quad
+\href{https://twitter.com/parthmadhvani2}{\color{blue}Twitter}
+\end{center}
 
 % ---------- EXPERIENCE ----------
 \section{Experience}
 
-\cventry{Feb'25 - May'25}{Software Engineer}{Connektra.io ( Synchromeda Technologies Pvt. Ltd ) }{(Remote) Gurgaon, India}{}
-{
+\cventry{Jul'25 -- Nov'25}{Software Engineer}{Pactle}{Remote — Delaware, USA}{}{
 \begin{itemize}[leftmargin=0.6cm, label={\textbullet}]
-    \item Ship integrations at \textbf{lightning speed with AI, automate} & deliver projects \textbf{10X faster}
-    \item Maintain and enhance \textbf{50+ top-tier integrations} on the platform
-    \item Implementing \textbf{AI modal} interfaces that connect \textbf{LLMS} with \textbf{workflow automation agents}
+    \item Built complex, scalable UI systems for \textbf{RFQ capture, quoting, approvals, and invoicing}.
+    \item Implemented AI-driven features such as \textbf{PDF/Image → quote extraction} and \textbf{email-ingested RFQs}.
+    \item Contributed to backend API and \textbf{ERP integration} architecture for quote-to-cash automation.
+    \item Improved workflow efficiency and usability across manufacturing customer teams.
 \end{itemize}
 }
 
-
-\cventry{Oct'24 - Jan'25}{Full Stack Developer}{Xipper}{(Remote) Mumbai, India}{}
-{
+\cventry{Feb'25 -- May'25}{Software Engineer}{Connektra.io (Synchromeda Technologies Pvt. Ltd.)}{Remote — Haryana, India}{}{
 \begin{itemize}[leftmargin=0.6cm, label={\textbullet}]
-    \item \textbf{Oversaw front-end development}, leveraging React with Tailwind CSS to \textbf{build a responsive and user-friendly interface} while ensuring \textbf{seamless integration with the backend}.
-    \item \textbf{Designed and implemented} a comprehensive, \textbf{well-optimized database structure to handle complex data relationships}, ensuring performance and scalability across all app features.
+    \item Maintained and enhanced \textbf{50+ enterprise integrations} across a no-code automation platform.
+    \item Built \textbf{AI-powered automation workflows}, reducing integration delivery time by \textbf{10x}.
+    \item Engineered reusable \textbf{React + TypeScript components} for integration and connector management.
+    \item Implemented \textbf{AI modal interfaces} connecting LLMs with workflow automation agents.
+    \item Improved backend sync performance and reduced latency across key API surfaces.
 \end{itemize}
 }
 
-\cventry{April'24 - June'24}{Full Stack Engineer}{Web3Scope}{(Remote) Bengaluru, India}{}
-{
+\cventry{Oct'24 -- Jan'25}{Full Stack Developer}{Xipper}{Remote — Mumbai, India}{}{
 \begin{itemize}[leftmargin=0.6cm, label={\textbullet}]
-    \item \textbf{Created numerous beautiful and user-friendly components} using \textbf{React, Next.js,} and \textbf{SCSS.}
-    \item \textbf{Developed components} that directly interface with \textbf{backend APIs,} utilizing \textbf{tables} and \textbf{charts} for \textbf{dashboard pages}.
+    \item Led frontend development using \textbf{React + Tailwind}, delivering responsive, production-grade UIs.
+    \item Designed a performant and scalable \textbf{PostgreSQL schema} using Prisma ORM.
+    \item Built backend APIs with \textbf{Node.js + Prisma}, achieving sub-\textbf{150ms} average response time.
+    \item Developed \textbf{real-time analytics logic}, enabling actionable user insights.
+    \item Deployed the app via a global \textbf{CDN} and implemented caching for faster load times.
 \end{itemize}
 }
 
 % ---------- PROJECTS ----------
 \section{Projects}
 
-\customcventry{Mar'24 ‐ June'24}{{\color{blue}\href{https://studysync-ss.vercel.app/}{Live}} {\color{blue}\href{https://github.com/ParthMadhvani2/StudySync}{Github}}} {StudySync}{}{}{
-{\begin{itemize}[leftmargin=0.6cm, label={\textbullet}]
-\vspace{2pt}
-\item \textbf{Created StudySync}, a dynamic ed-tech platform fostering engaging learning environments.
-    \item \textbf{Empowered global educators} with a platform to \textbf{showcase expertise} and \textbf{connect with learners}.
-    \item Tech Stack: React, Redux, Node, Express, Tailwind CSS, Mongodb, Figma, Cloudinary,
-\end{itemize}}}
-
-\customcventry{Feb'24 ‐ Mar'24}{{\color{blue}\href{https://frame-phase.netlify.app/}{Live}} {}{\color{blue}\href{https://github.com/ParthMadhvani2/FramePhase}{Github}}} {FramePhase}{}{}{
-{\begin{itemize}[leftmargin=0.6cm, label={\textbullet}]
-\vspace{2pt}
-    \item \textbf{Engineered FramePhase}, a cutting-edge captions generator app utilizing Next.js 13 and AWS 
-    \item \textbf{Streamlined content creation} with \textbf{automated transcription}, revolutionizing the process.
-    \item \textbf{Boosted user engagement by 25\%} through \textbf{customizable options} and \textbf{enhanced accessibility}, empowering creators worldwide.
-    \item Tech Stack: Next 13, JavaScript, Tailwind CSS, Web Assembly, AWS S3 Bucket, AWS Transcribe, Figma
-\end{itemize}}}
-
-\customcventry{Jan'24 ‐ Feb'24}{{\color{blue}\href{https://github-landing.parthmadhvani2.vercel.app/}{Live}} {\color{blue}\href{https://github.com/ParthMadhvani2/github-landing}{Github}}} {GitHub Landing Page}{}{}{
-{\begin{itemize}[leftmargin=0.6cm, label={\textbullet}]
-\vspace{2pt}
-    \item \textbf{Re-created} the GitHub home page using \textbf{Next.js}, significantly improving \textbf{performance} and \textbf{user experience}.
-    \item \textbf{Designed sections} in \textbf{Figma} before implementation, ensuring a \textbf{consistent} and \textbf{professional look}.
-    \item Tech Stack: Next 13, TypeScript, Tailwind CSS, Figma, Framer Motion
-\end{itemize}}}
+\customcventry{Feb'24 -- Mar'24}{{\color{blue}\href{https://frame-phase.netlify.app}{Live}} \quad {\color{blue}\href{https://github.com/ParthMadhvani2/FramePhase}{GitHub}}}{FramePhase}{}{}{
+\begin{itemize}[leftmargin=0.6cm, label={\textbullet}]
+    \item Built an AI-powered \textbf{caption generator} using Next.js 13 and AWS Transcribe.
+    \item Streamlined content creation through \textbf{automated transcription}.
+    \item Increased engagement by \textbf{25\%} with customization options and improved accessibility.
+    \item Tech Stack: Next.js 13, JavaScript, Tailwind, AWS S3, AWS Transcribe, Figma.
+\end{itemize}
+}
 
 % ---------- EDUCATION ----------
 \section{Education}
-\customcventry{2021-2025}{\color{blue}\href{https://www.adit.ac.in/}{}}{A.D. Patel Institute of Technology}{Anand, Gujarat}{}{}{B.E in Information Technology}
+\customcventry{2021 -- 2025}{\color{blue}\href{https://www.adit.ac.in/}{}}{A.D. Patel Institute of Technology}{Anand, Gujarat}{}{}{
+B.E. in Information Technology}
+
+% ---------- TECHNICAL SKILLS ----------
+\section{Technical Skills}
+\begin{itemize}[leftmargin=0in, label={}]
+\normalsize{
+    \item \textbf{Languages:} JavaScript, TypeScript, C/C++, Python
+    \item \textbf{Frontend:} React, Next.js, Redux, Zustand, Tailwind CSS, shadcn/ui, Framer Motion, Vite
+    \item \textbf{Backend:} Node.js, Express.js, REST APIs, GraphQL, WebSockets
+    \item \textbf{Databases:} PostgreSQL, MongoDB, SQL, NoSQL, Prisma ORM
+    \item \textbf{Cloud/Platforms:} AWS (S3, Lambda, Transcribe), GCP VMs, Docker, Kubernetes, CDN, Vercel, Netlify
+    \item \textbf{Tools:} Git, GitHub, Postman, Swagger, Figma, Stripe, Clerk, npm/Yarn/pnpm, Docker Compose, Redis
+}
+\end{itemize}
 
 \end{document}
